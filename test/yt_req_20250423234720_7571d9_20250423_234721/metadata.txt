@@ -1,0 +1,52 @@
+Metadata for YouTube content:
+==================================================
+Platform: YouTube
+Video ID: _Xczf06n6x0
+Title: Simple Login & Register with Firebase Authentication & Firestore using JavaScript | HTML | CSS
+Description: Master Login & Signup with Firebase!
+
+In this comprehensive tutorial, you'll learn how to build a login and signup system for your website using Firebase Authentication and Firestore, a powerful NoSQL database. 
+
+Frontend Source Code:
+Github Link: https://github.com/francis-njenga/login-form-frontend
+
+Full Source Code:
+Github Link: https://github.com/francis-njenga/SignUP-SignIn-Form-with-connection-to-FIrebase
+
+Contact : https://frankcodes.tech
+
+Here's what you'll learn:
+1. Firebase Authentication: Securely manage user logins and passwords.
+2. Firestore Database: Store and retrieve user information in real-time.
+3. JavaScript Form Handling: Handle user input and interact with Firebase.
+
+---------------------------------------------------------------------------------------------------------------------------
+#database #javascript #html #css #programming #begginers #code #webdevelopment #frontend 
+--------------------------------------------------------------------------------------------------------------------------
+
+
+0:00 Introduction
+0:38 Source Code
+1:19 Firebase & Db Connection
+16:30 Homepage
+Published At: 2024-05-01T07:44:03Z
+Channel: frank Tech
+View Count: 67664
+Like Count: 1299
+Comment Count: 136
+Tags: No tags
+
+Sentiment Analysis Report:
+==================================================
+Total Comments: 136
+Positive: 89 (65.4%)
+Neutral: 44 (32.4%)
+Negative: 3 (2.2%)
+
+Top Commenters:
+==================================================
+1. @francis_tech (60)
+2. @julianagomes7900 (2)
+3. @PattyBabyyyy (2)
+4. @johnportelance3851 (2)
+5. @tanmoymitra3070 (2)
